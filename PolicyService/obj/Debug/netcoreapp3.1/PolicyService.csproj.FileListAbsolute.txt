@@ -1,0 +1,60 @@
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.exe
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.deps.json
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.runtimeconfig.json
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.runtimeconfig.dev.json
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.pdb
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.csproj.AssemblyReference.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.AssemblyInfoInputs.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.AssemblyInfo.cs
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.csproj.CoreCompileInputs.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\staticwebassets\PolicyService.StaticWebAssets.Manifest.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\staticwebassets\PolicyService.StaticWebAssets.xml
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyService.styles.css
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.RazorTargetAssemblyInfo.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.pdb
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.genruntimeconfig.cache
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deep Sagore\source\repos\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.MvcApplicationPartsAssemblyInfo.cs
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.pdb
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.csproj.AssemblyReference.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.AssemblyInfoInputs.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.AssemblyInfo.cs
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.csproj.CoreCompileInputs.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.MvcApplicationPartsAssemblyInfo.cs
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.MvcApplicationPartsAssemblyInfo.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.exe
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.deps.json
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.runtimeconfig.json
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.runtimeconfig.dev.json
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\PolicyService.pdb
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\staticwebassets\PolicyService.StaticWebAssets.Manifest.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\staticwebassets\PolicyService.StaticWebAssets.xml
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\scopedcss\bundle\PolicyService.styles.css
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.RazorTargetAssemblyInfo.cache
+C:\TrainingProject\ClaimManagementSystem\PolicyService\PolicyService\obj\Debug\netcoreapp3.1\PolicyService.genruntimeconfig.cache
