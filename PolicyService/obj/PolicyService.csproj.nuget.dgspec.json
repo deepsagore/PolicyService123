@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\PolicyService.csproj": {}
+    "C:\\PolicyService\\PolicyService\\PolicyService.csproj": {}
   },
   "projects": {
-    "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\PolicyService.csproj": {
+    "C:\\PolicyService\\PolicyService\\PolicyService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\PolicyService.csproj",
+        "projectUniqueName": "C:\\PolicyService\\PolicyService\\PolicyService.csproj",
         "projectName": "PolicyService",
-        "projectPath": "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\PolicyService.csproj",
+        "projectPath": "C:\\PolicyService\\PolicyService\\PolicyService.csproj",
         "packagesPath": "C:\\Users\\2063457\\.nuget\\packages\\",
-        "outputPath": "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\obj\\",
+        "outputPath": "C:\\PolicyService\\PolicyService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -49,6 +49,10 @@
             "Microsoft.AspNet.WebApi.Core": {
               "target": "Package",
               "version": "[5.2.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

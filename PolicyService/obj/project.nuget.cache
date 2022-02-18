@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w59dMu/8nGZG9S0PgCYao02E+Vkp/2Jl0oCEyVTFONErOMgbzIM4aMA9eopYlniGq598vJ8gIgTIOkOjl2enyA==",
+  "dgSpecHash": "fAD+8EzJ4lmY8Ynu19UYjDFKLcK8GXvSFN/7IrVvKdFMoU6aNM4BbOi3P06KFfmtS2HnivfJQsBxOvfSSxAakA==",
   "success": true,
-  "projectFilePath": "C:\\TrainingProject\\ClaimManagementSystem\\PolicyService\\PolicyService\\PolicyService.csproj",
+  "projectFilePath": "C:\\PolicyService\\PolicyService\\PolicyService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
@@ -11,6 +11,7 @@
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\2063457\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\2063457\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
